@@ -1,0 +1,16 @@
+{
+  "name": "crossmint-nft-collection-manager-5sd6m7",
+  "version": "0.1.0",
+  "main": "src/index.ts",
+  "repository": "https://github.com/mordiscos/crossmint-nft-collection-manager-5sd6m7.git",
+  "author": "mordisco <mordisco@mordisco.xyz> (https://www.mordisco.xyz)",
+  "license": "MIT",
+  "private": true,
+  "scripts": {},
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
